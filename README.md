@@ -11,7 +11,7 @@ Hi! I'm Kevin Liu Perdana, a Grade 10 student from Indonesia interested in Chemi
 - English Communication
 
 ## Current Goals
-- Master high school chemistry
+- Master high school robotics, chemistry, and. athematics.
 - Build sustainability projects
 - Participate in science competitions
 - Prepare for top universities
@@ -24,9 +24,12 @@ A project exploring solutions for waste management in Indonesia.
 Researching distillation, fragrance concentration, and skin chemistry.
 
 ## Achievements
-- Best Male Student at MPLS
-- Most Active Student at English Week 2026
-- Taekwondo Athlete
+
+- Taekwondo Athlete with Competition Experience
+- Founder and Creator of a Personal Academic Portfolio
+- Independent Researcher in Perfume Chemistry and Distillation
+- Sustainability and Waste Management Project Developer
+- Active Participant in English Competitions and Academic Activities
 
 ## Contact
-Email: your-email@example.com
+Email: labtheolfactory@gmail.com

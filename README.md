@@ -31,5 +31,11 @@ Researching distillation, fragrance concentration, and skin chemistry.
 - Sustainability and Waste Management Project Developer
 - Active Participant in English Competitions and Academic Activities
 
+# Why I Chose Chemical Engineering
+
+Chemical Engineering interests me because it combines chemistry, mathematics, problem-solving, and real-world impact.
+
+I am particularly interested in sustainability and perfume chemistry, which both rely on understanding chemical processes and innovation.
+
 ## Contact
 Email: labtheolfactory@gmail.com

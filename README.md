@@ -31,19 +31,19 @@ Researching distillation, fragrance concentration, and skin chemistry.
 - Sustainability and Waste Management Project Developer
 - Active Participant in English Competitions and Academic Activities
 
-# Why I Chose Chemical Engineering
+
 
 # Why I Chose Chemical Engineering
 
 ## Introduction
 
-Choosing a future field of study is not an easy decision. Many disciplines offer opportunities to solve problems and make a positive impact on society. After exploring different areas of science and technology, I became particularly interested in Chemical Engineering because it combines chemistry, mathematics, innovation, and real-world applications.
+Choosing a future field of study is not an easy decision. I enjoyed alot of subjects at school like English or maybe even exercise. But I really enjoy this one subject: STEM. I like making stuff, but I want my creation to help the world. Many disciplines offer opportunities to solve problems and make a positive impact on society. After exploring different areas of science and technology, I became particularly interested in Chemical Engineering because it combines chemistry, mathematics, innovation, and real-world applications.
 
 ## Discovering My Interest in Chemistry
 
 My interest in chemistry started with curiosity. I wanted to understand how substances interact, why materials have different properties, and how scientific principles can be used to create products that people use every day. As I learned more about chemistry, I realized that it is present in nearly every aspect of modern life, from medicine and energy to food production and manufacturing.
 
-One area that especially captured my attention was perfume science. Learning about fragrance ingredients, distillation, and how perfumes interact with the skin showed me that chemistry is not only theoretical but also highly practical and creative.
+One area that especially captured my attention was perfume science. I LOVE PERFUMES! Combining both interest unto one makes me more motivated to learn about fragrance ingredients, distillation, and how perfumes interact with the skin showed me that chemistry is not only theoretical but also highly practical and creative.
 
 ## Why Chemical Engineering?
 

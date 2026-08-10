@@ -68,6 +68,15 @@ Although I am still at the beginning of this journey, I am excited to continue l
 Chemical Engineering combines many of the subjects and interests that inspire me, including chemistry, innovation, sustainability, and problem-solving. For these reasons, it is the field I hope to pursue in the future, and I look forward to learning more about its applications and possibilities.
 
 
+## Support Me on This Journey
+
+Every project starts with curiosity.
+
+As I continue learning, experimenting, writing, and building, this portfolio will grow alongside me. Whether you're a fellow student, educator, researcher, or simply someone who shares an interest in science, thank you for taking the time to explore my work.
+
+Your support, feedback, and encouragement mean a lot and help motivate me to keep learning, creating, and sharing.
+
+Let's explore, learn, and grow together.
 
 ## Contact
 Email: labtheolfactory@gmail.com

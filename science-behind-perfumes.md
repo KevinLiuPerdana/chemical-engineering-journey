@@ -1,4 +1,4 @@
-# The Science Behind Perfumes: More Than Just a Pleasant Smell
+# The Science Behind Perfumes
 
 When most people think about perfumes, they think about only how it smells or maybe how the bottle looks Maybe people think how long doest it last. However, behind every bottle of fragrance lies a fascinating world of chemistry, physics, and biology. Perfume making is not only an art but also a science that combines hundreds of molecules to create a unique sensory experience.
 
@@ -20,7 +20,7 @@ This happens because fragrance molecules evaporate at different rates. Molecules
 
 This process is why perfumers often describe fragrances as having a “journey” from opening to dry-down.
 
-## The Chemistry of Extraction
+## Notes Extraction
 
 Many fragrance ingredients originate from plants. One of the most important extraction techniques is **steam distillation**.
 
@@ -45,7 +45,7 @@ A perfume does not smell exactly the same on every person.
 
 Factors such as skin temperature, skin moisture, natural skin oils, and body chemistry can influence how fragrance molecules evaporate and interact with the skin. This is why a perfume that smells amazing on one person may smell different on another.
 
-## The Future of Fragrance
+## The Future
 
 The fragrance industry is increasingly embracing sustainability and innovation. Scientists are developing biodegradable aroma molecules, greener manufacturing methods, and even using artificial intelligence to help discover new scent combinations. These advances aim to create fragrances that are both enjoyable and environmentally responsible.
 

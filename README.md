@@ -22,22 +22,25 @@ Hi! I'm Kevin Liu Perdana, a Grade 10 student from Indonesia interested in Chemi
 * Founder of The Olfactory Lab
 * English competition participant and award recipient
 * Taekwondo athlete and black belt holder
-* Student leader and organizational member
+* Berihin Yuk ID 2025: Student leader and organizational member of a Youth Organization
 * STEM project developer
-* Science and engineering writer
+* Perfume Science and engineering writer
+* Robotics
+* Basketball Player
 
 ## 🔬 Featured Projects
 
 ### GloveHealth
+(https://glovehealth.netlify.app/)
 
 A healthcare-focused wearable technology concept designed to assist users through smart monitoring and innovative engineering solutions.
 
 ### The Olfactory Lab
 
-An educational initiative exploring the intersection of chemistry, perfumery, psychology, and sustainability.
+An educational Instagram account exploring the intersection of chemistry, perfumery, psychology, and sustainability.
 
-### STEM Research & Science Communication
-
+### STEM Research & Science Communication abour Perfumery
+(kevinliuperdana.com)
 Writing articles that make scientific concepts accessible and engaging for students.
 
 

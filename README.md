@@ -36,6 +36,7 @@ Hi! I'm Kevin Liu Perdana, a Grade 10 student from Indonesia interested in Chemi
 A healthcare-focused wearable technology concept designed to assist users through smart monitoring and innovative engineering solutions.
 
 ### The Olfactory Lab
+(IG: @theolfactorylab_)0
 
 An educational Instagram account exploring the intersection of chemistry, perfumery, psychology, and sustainability.
 
@@ -90,4 +91,13 @@ Your support, feedback, and encouragement mean a lot and help motivate me to kee
 Let's explore, learn, and grow together.
 
 ## Contact
+Website: kevinliuperdana.com
+
+The Olfactory Lab:
 Email: labtheolfactory@gmail.com
+https://share.google/XTcqqiPOKii7GMiWu
+@theolfactorylab_
+
+Medium: https://medium.com/@KevinLiuPerdana
+
+LinkedIn: https://www.linkedin.com/in/kevin-liu-perdana-87301042a/

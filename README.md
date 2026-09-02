@@ -15,22 +15,30 @@ Hi! I'm Kevin Liu Perdana, a Grade 10 student from Indonesia interested in Chemi
 - Build sustainability projects
 - Participate in science competitions
 - Prepare for top universities
+- 
+## 🏆 Achievements & Activities
 
-## Projects
-### Sustainable Waste Management
-A project exploring solutions for waste management in Indonesia.
+* International Science Fair participant (ISIF)
+* Founder of The Olfactory Lab
+* English competition participant and award recipient
+* Taekwondo athlete and black belt holder
+* Student leader and organizational member
+* STEM project developer
+* Science and engineering writer
 
-### Perfume Chemistry
-Researching distillation, fragrance concentration, and skin chemistry.
+## 🔬 Featured Projects
 
-## Achievements
+### GloveHealth
 
-- Taekwondo Athlete with Competition Experience
-- Founder and Creator of a Personal Academic Portfolio
-- Independent Researcher in Perfume Chemistry and Distillation
-- Sustainability and Waste Management Project Developer
-- Active Participant in English Competitions and Academic Activities
+A healthcare-focused wearable technology concept designed to assist users through smart monitoring and innovative engineering solutions.
 
+### The Olfactory Lab
+
+An educational initiative exploring the intersection of chemistry, perfumery, psychology, and sustainability.
+
+### STEM Research & Science Communication
+
+Writing articles that make scientific concepts accessible and engaging for students.
 
 
 # Why I Chose Chemical Engineering

@@ -1,0 +1,65 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Scent Atlas</title>
+<style>
+body{font-family:Arial,sans-serif;margin:0;background:#f4f6f8;color:#222}
+header{padding:40px;text-align:center;background:#1f2937;color:white}
+.container{max-width:1000px;margin:auto;padding:20px}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:15px}
+.card{background:white;padding:20px;border-radius:10px;box-shadow:0 2px 6px rgba(0,0,0,.1)}
+select,button{padding:10px;margin-top:10px}
+#output{margin-top:15px}
+</style>
+</head>
+<body>
+<header>
+<h1>The Scent Atlas</h1>
+<p>Exploring chemistry, memory, culture, and fragrance around the world.</p>
+</header>
+
+<div class="container">
+<h2>Explore a Region</h2>
+<select id="country">
+<option value="indonesia">Indonesia</option>
+<option value="saudi">Saudi Arabia</option>
+<option value="france">France</option>
+</select>
+<button onclick="showInfo()">Discover</button>
+
+<div id="output" class="card"></div>
+
+<h2>Project Vision</h2>
+<div class="grid">
+<div class="card">
+<h3>Chemistry</h3>
+<p>Learn the molecules behind scent, such as vanillin, geosmin, and oud compounds.</p>
+</div>
+<div class="card">
+<h3>Memory</h3>
+<p>Discover why smells can trigger vivid memories and emotions.</p>
+</div>
+<div class="card">
+<h3>Culture</h3>
+<p>Explore how scent preferences differ across regions and traditions.</p>
+</div>
+</div>
+</div>
+
+<script>
+function showInfo(){
+ const c=document.getElementById("country").value;
+ const data={
+  indonesia:"Patchouli, cloves, tropical rain, and rich biodiversity shape Indonesia's scent identity.",
+  saudi:"Oud, rose, incense, and traditional perfumery play a major role in daily life.",
+  france:"Lavender, Grasse, and centuries of perfume craftsmanship define French fragrance culture."
+ };
+ document.getElementById("output").innerHTML=data[c];
+}
+showInfo();
+</script>
+</body>
+</html>

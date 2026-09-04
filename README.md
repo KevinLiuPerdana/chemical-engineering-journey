@@ -101,3 +101,5 @@ https://share.google/XTcqqiPOKii7GMiWu
 Medium: https://medium.com/@KevinLiuPerdana
 
 LinkedIn: https://www.linkedin.com/in/kevin-liu-perdana-87301042a/
+
+About Me: https://about.me/kevinliuperdana

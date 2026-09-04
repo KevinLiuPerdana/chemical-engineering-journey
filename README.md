@@ -91,7 +91,7 @@ Your support, feedback, and encouragement mean a lot and help motivate me to kee
 Let's explore, learn, and grow together.
 
 ## Contact
-Website: kevinliuperdana.com
+Website: https://kevinliuperdana.com
 
 The Olfactory Lab:
 Email: labtheolfactory@gmail.com
